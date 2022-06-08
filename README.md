@@ -1,7 +1,7 @@
 # Music Listening Website
 
-## 金1 - Group 3
-<h1>Member</h1>
+<h1> 金1 - Group 3
+<h2>Member</h2>
 <ul>
    <li>Nguyen Duy Khanh</li>
    <li>Nguyen Viet Truong</li>
@@ -10,7 +10,7 @@
    <li>Nguyen Van Quyen</li>
 </ul>
 
-## Run Program
+<h1>Run Program</h1>
 <ul>
    <li>npm install</li>
    <li>npm start</li>
