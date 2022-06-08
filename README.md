@@ -1,7 +1,6 @@
-# Music Listening Website
+# Music Listening Website - 金1 Group 3
 
-<h1> 金1 - Group 3
-<h2>Member</h2>
+<h1>Member</h1>
 <ul>
    <li>Nguyen Duy Khanh</li>
    <li>Nguyen Viet Truong</li>
